@@ -29,7 +29,7 @@ export default function PostPage({ source, frontMatter }) {
       <header>
         <nav>
           <Link href="/">
-            <a>👈 Go back home</a>
+            👈 Go back home
           </Link>
         </nav>
       </header>
